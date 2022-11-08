@@ -1,0 +1,169 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    background-color:white;
+}
+    .header_inner{
+            width:70%;
+            margin: 0 auto;
+            padding:2%;
+                }
+            .header_col1{
+                float:left;
+                }
+                .pad{
+                padding:15px;
+                }
+            
+            .header_col2{
+                float:left;
+                padding-left:70px;
+                }
+                
+                .a,.b,.c,.d,.e,.f{
+                background-color: white;
+                padding: 15px;}
+                                                    
+            .header_col3{
+                display: inline-block;
+                }
+                    .g{
+                    text-decoration: none;
+                    }
+                    .h{
+                    border-radius:30px;
+                    background-color:midnightblue;
+                    color:white;
+                    margin:0 20px;
+                    text-decoration:none; 
+                    padding:5px 20px;}
+                    .i{
+                    border-radius:30px;
+                    background-color:midnightblue;
+                    color:white;
+                    margin:0 20px;
+                    padding:5px 20px;
+                   
+                    }
+
+
+.banner1
+    {
+    background-color: white;
+    }
+
+        .banner1_inner{
+         width:70%;
+         margin:0 auto;
+        
+        }
+        .banner1_col1{
+            width:40%;
+            float:left;
+            padding-top: 8% ;
+            }
+                                .down{
+                                    padding: 4% 0 ;
+                                   
+                                  
+                                }
+                                .down1{
+                                    line-height: 20px;
+                                }
+                                
+                                
+                            .color{
+                                color:blue;}
+
+                            .button{
+                                color:blue;
+                                padding:40px;
+                            }    
+                                .button1{
+                                    color:white;
+                                    padding: 10px;
+                                    border-radius: 10px;
+                                    background-color: blue;
+                                    margin: 0 40px;
+                                    }
+        .banner1_col2{
+            width:50%;
+            float:right;
+           }
+
+
+.banner2{
+    background-color:white;
+    }
+    .banner2_inner{
+        width:70%;
+        margin:0 auto;
+       padding:5%;
+    }
+    .banner2_col1,.banner2_col2,.banner2_col3{
+        float:left;
+        width:33.3%;
+        text-align:center;
+    }
+        .ban2_img1{
+            padding-left: 20px;
+           
+        }
+        .ban2_img2,.ban2_img3{
+            padding-left:20px;
+        }
+        .ban2_col1,.ban2_col2,.ban2_col3{color:blue;
+        text-decoration:underline;}
+
+
+.banner3{
+    background-color:whitesmoke;
+    }
+        .banner3_inner{
+            width:70%;
+            margin: 0 auto;
+            display: inline-block;            
+                
+        }
+        .h1{
+            padding:10% 0;
+            
+        }
+        
+        
+            .banner3_row1{
+                background-color: white;
+                margin-top: 20px;
+                padding:5%;
+                 
+            }  
+
+            .ban3_r1-1,.ban3_r2-1,.ban3_r3-1{
+                
+                border-radius: 5px;
+                background-color:aquamarine;
+                width:20%;
+                float: left;
+                padding: 5px;
+            }
+              
+            .ban3_r1-2 ,.ban3_r2-2,.ban3_r3-2{
+                float:left;
+                width:30%;
+                padding:5px;
+                background-color:aquamarine;
+                 
+            }
+        .ban3-img{
+            float:right;
+            
+        }
+
+
+.banner4{
+    background-color: white;
+}
+                
+                    
